@@ -103,7 +103,7 @@ Add your team members' names and student IDs here:
 - Member 1: Mugdho — Student Id : 253-35-090
 - Member 2: Shuchi — Student ID : 253-35-159
 - Member 3: Saif   — Student ID : 253-35-277
-- Member 4: Makama — Student ID : 253-35-
+- Member 4: Makama — Student ID : 253-35-050
 - Member 5: Mutasim— Student ID : 253-35-639
 
 ## Current Status
