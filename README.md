@@ -1,5 +1,4 @@
 # Vehicle Rental System
-### Capstone Project 1 — Student Project
 
 ## About the Project
 The **Vehicle Rental System** is a student capstone project developed using the C programming language and file handling. It is designed to demonstrate how a simple vehicle rental process can be managed through a menu-driven program.
