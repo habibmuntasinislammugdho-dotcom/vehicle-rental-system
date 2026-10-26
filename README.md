@@ -132,7 +132,11 @@ Through this project, the team aims to practise:
 - Testing and documenting a small software project.
 
 ## Academic Disclaimer
-This is an educational project created for learning and demonstration purposes. It is not intended to be used as a production vehicle-rental service.
+The Vehicle Rental System is an educational project developed for academic learning and demonstration purposes. It is intended to help students apply fundamental programming concepts to a practical software development scenario.
+
+This application is not intended for production use as a commercial vehicle rental service.
+
+
 
 ---
 **Capstone Project  — Vehicle Rental System**
