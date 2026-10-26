@@ -116,12 +116,21 @@ Add your team members' names and student IDs here:
 Update this section as the team implements and tests each feature.
 
 ## Future Improvements
-- Add customer details and booking history.
-- Validate input and handle file errors more robustly.
-- Prevent bookings when a vehicle is already rented.
-- Improve billing rules and display a clear cost breakdown.
-- Add search and sorting options for vehicles.
-- Expand testing for invalid input and edge cases.
+- Customer profile and information management.
+- Rental history and booking record tracking.
+- Improved input validation and error handling.
+- Improved input validation and error handling.
+- More robust file operations and data consistency checks.
+- Prevention of duplicate or conflicting rental bookings.
+- Enhanced billing calculations and detailed cost breakdowns.
+- Vehicle search, filtering, and sorting functionality.
+- Improved reporting and rental summaries.
+- Comprehensive testing for invalid inputs and edge cases.
+- A more advanced user interface in future versions.
+  
+ 
+
+  
 
 ## Learning Outcomes
 Through this project, the team aims to practise:
