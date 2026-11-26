@@ -107,7 +107,7 @@ Add your team members' names and student IDs here:
 - Member 1: Mugdho — Student Id : 253-35-090
 - Member 2: Shuchi — Student ID : 253-35-159
 - Member 3: Saif   — Student ID : 253-35-277
-- Member 5: Mutasim— Student ID : 253-35-639
+- Member 4: Mutasim— Student ID : 253-35-639
 
 ## Current Status
 **Project stage:** Capstone Project  — Student development project.
