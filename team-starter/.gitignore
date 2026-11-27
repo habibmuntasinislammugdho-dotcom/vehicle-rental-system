@@ -1,0 +1,5 @@
+vrs.exe
+vrs
+*.o
+*.tmp
+data/*.tmp

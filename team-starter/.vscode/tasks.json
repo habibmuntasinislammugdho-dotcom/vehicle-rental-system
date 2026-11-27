@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build",
+      "type": "process",
+      "command": "gcc",
+      "args": ["-Wall", "-Wextra", "-g",
+               "src/main.c", "src/utils.c", "src/vehicle.c",
+               "src/booking.c", "src/rental.c", "src/billing.c",
+               "-o", "vrs.exe"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": ["$gcc"]
+    },
+    {
+      "label": "Build and Run",
+      "type": "process",
+      "command": "${workspaceFolder}/vrs.exe",
+      "options": { "cwd": "${workspaceFolder}" },
+      "dependsOn": "Build",
+      "group": { "kind": "build", "isDefault": true },
+      "presentation": { "focus": true, "panel": "dedicated", "clear": true },
+      "problemMatcher": []
+    }
+  ]
+}
